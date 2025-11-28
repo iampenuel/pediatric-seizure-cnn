@@ -94,6 +94,6 @@ To accomplish this, we:
 
 This project was completed in collaboration as **Team PYB**:
 
-- *[Yuxin Zeng]* – *[yu.zeng@tufts.edu]*  
-- *[Brian Roberto Sugira]* – *[rbs23a@acu.edu]*  
-- *[Penuel Stanley-Zebulon]* – *[pcs5301@psu.edu]*  
+- *Yuxin Zeng* – *[yu.zeng@tufts.edu]*  
+- *Brian Roberto Sugira* – *[rbs23a@acu.edu]*  
+- *Penuel Stanley-Zebulon* – *[pcs5301@psu.edu]*  
