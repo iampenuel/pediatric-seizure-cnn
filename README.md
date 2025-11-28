@@ -2,7 +2,7 @@
 
 This project built and deployed a seizure detection model for **pediatric EEG** data.  
 We trained a **1D Convolutional Neural Network (CNN)** on a processed CHB-MIT pediatric scalp 
-EEG dataset to classify short windows as **seizure** or **non-seizure**, and wrap the model in 
+EEG dataset to classify short windows as **seizure** or **non-seizure**, and wrapped the model in 
 a simple Streamlit web app as part of the AI4ALL Ignite accelerator.
 
 ---
