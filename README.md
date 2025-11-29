@@ -1,8 +1,9 @@
 # Pediatric EEG Seizure Detection
 
-In this project we built and deployed a seizure detection model for **pediatric EEG** data.
+## In this project we built and deployed a seizure detection model for **pediatric EEG** data.
 We trained a **1D Convolutional Neural Network (CNN)** on a processed CHB-MIT pediatric scalp 
 EEG dataset to classify short windows as **seizure** or **non-seizure**, and wrapped the model in a simple Streamlit web app 
+
 ---
 
 ## Problem Statement
